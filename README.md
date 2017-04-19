@@ -1,4 +1,7 @@
-# test coverage for  [split (v1.0.0)](http://github.com/dominictarr/split)  [![npm package](https://img.shields.io/npm/v/npmtest-split.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-split) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-split.svg)](https://travis-ci.org/npmtest/node-npmtest-split)
+# npmtest-split
+
+#### basic test coverage for  [split (v1.0.0)](http://github.com/dominictarr/split)  [![npm package](https://img.shields.io/npm/v/npmtest-split.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-split) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-split.svg)](https://travis-ci.org/npmtest/node-npmtest-split)
+
 #### split a Text Stream into a Line Stream
 
 [![NPM](https://nodei.co/npm/split.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/split)

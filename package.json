@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [split (v1.0.0)](http://github.com/dominictarr/split) [![npm package](https://img.shields.io/npm/v/npmtest-split.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-split) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-split.svg)](https://travis-ci.org/npmtest/node-npmtest-split)",
+    "description": "#### basic test coverage for  [split (v1.0.0)](http://github.com/dominictarr/split)  [![npm package](https://img.shields.io/npm/v/npmtest-split.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-split) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-split.svg)](https://travis-ci.org/npmtest/node-npmtest-split)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "split": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "0.0.3"
 }
